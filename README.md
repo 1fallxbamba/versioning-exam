@@ -7,3 +7,4 @@ Q4: il faut taper la commande git log --oneline
 Q5: Non parceque les branches sont paralelle
 Q6: git diff nom de la branche à comparer
 Q8: un fichier .gitignore permet de cacher des fichiers sensibles
+
