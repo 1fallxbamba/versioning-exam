@@ -27,3 +27,5 @@ Question 8 :
     Il est important d’utiliser un fichier .gitignore pour éviter de suivre dans Git des fichiers qui ne devraient pas être versionnés. Cela inclut des fichiers temporaires, des fichiers de configuration spécifiques à un environnement local (comme env.txt), des fichiers de build, ou d'autres fichiers générés qui ne sont pas pertinents pour le projet. En les ignorant, on réduit le bruit dans l’historique des commits, protège des informations sensibles et préserve l'intégrité du dépôt.
 Question 9 : 
     Si un conflit de fusion survient, Git arrête le processus de fusion et vous informe des fichiers concernés. Cela se produit lorsque des modifications incompatibles ont été apportées aux mêmes lignes d’un fichier dans les deux branches. Vous devrez alors résoudre manuellement les conflits en modifiant les fichiers concernés pour choisir quelles modifications conserver. Une fois les conflits résolus, vous devrez ajouter les fichiers modifiés à la staging area et effectuer un commit pour finaliser la fusion.
+
+    
