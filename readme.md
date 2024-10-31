@@ -25,4 +25,5 @@ Réponses:
 3)si on fait une modification sans commiter le fichier et puis on ferme le projet et on réouvre rien ne change mais le fichier
   ne sera pas enregistrer dans le repo local
 4)pour afficher l'hhistorique de maniere concise il faut taper dans le terminal git log --oneline
-5)
+5)oui ce commit affecte les autres branches car c'est le meme repo local
+6)
