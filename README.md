@@ -28,7 +28,7 @@ Question 5 : Si vous êtes sur une branche et que vous commitez, est-ce que ce c
 la modification de l'une d'elle n'affecte pas les autres.
 
 Question 6 : Quelle est la syntaxe de la commande qui permet d’afficher ces différences ?
---> La syntaxe de la commande qui permet d’afficher ces différences est 'git diff'.
+--> La syntaxe de la commande qui permet d’afficher ces différences est 'git diff [nom_de_branche]'.
 
 Question 8 : Pourquoi est-il important d’utiliser un fichier .gitignore ?
 --> Il est important d'utiliser un fichier .gitignore car il permet de spécifier les fichiers ou les dossiers qui ne doivent pas être suivis par Git. Les fichiers sensibles.
@@ -39,7 +39,7 @@ Question 8 : Pourquoi est-il important d’utiliser un fichier .gitignore ?
 --> Pour vérifier si un fichier est tracker, on peut utiliser la commande 'git ls-files' qui va nous afficher la liste des fichiers suivis par Git.
 
 Question 9 : Que se passe-t-il si un conflit de fusion survient ?
---> Si un conflit de fusion survient, Git va nous demander de résoudre le conflit manuellement en modifiant le fichier de manière à ce qu'il soit cohérent avec les deux versions.
+--> Si un conflit de fusion survient, Git va stopper la fusion et nous demander de résoudre le conflit manuellement en modifiant le fichier de manière à ce qu'il soit cohérent avec les deux versions.
 
 *Comment fusionner deux branches ?
 --> Pour fusionner deux branches, on peut utiliser la commande 'git merge'.
