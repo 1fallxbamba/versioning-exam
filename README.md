@@ -14,3 +14,5 @@ Les modificationd resterons intacttes ( il n'y aura aucun changement car cela n'
 # Question 4
 Pour afficher l'historique de maniere concise, on utilise la commande git log --oneline
 
+# Question 5
+le commit fait sur la branche design n'affecte pas les autres branches car chaque branche est independante des autres (sauf si on utilise un merge)
