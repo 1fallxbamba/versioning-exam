@@ -26,4 +26,4 @@ Réponses:
   ne sera pas enregistrer dans le repo local
 4)pour afficher l'hhistorique de maniere concise il faut taper dans le terminal git log --oneline
 5)oui ce commit affecte les autres branches car c'est le meme repo local
-6)
+6)git diff <nom de la branche qu'on veut comparer avec la branche actuelle>
