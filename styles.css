@@ -1,0 +1,40 @@
+//* Couleur de fond de la page */
+body {
+    background-color: #f4f4f4; /* Couleur de fond légère */
+}
+
+/* Couleurs de l'en-tête */
+header {
+    background-color: #35424a; /* Couleur sombre pour l'en-tête */
+    color: #ffffff; /* Texte en blanc */
+}
+
+/* Couleurs de la navigation */
+nav {
+    background-color: #35424a; /* Couleur sombre pour la navigation */
+    color: #ffffff; /* Texte en blanc */
+}
+
+nav ul li a {
+    color: #ffffff; /* Couleur des liens */
+}
+
+nav ul li a:hover {
+    background-color: #e8491d; /* Couleur de fond lors du survol */
+}
+
+/* Couleurs des sections */
+section {
+    background-color: #ffffff; /* Couleur de fond blanche pour les sections */
+}
+
+.nouvelle-section {
+    background-color: #e4e4e4; /* Couleur de fond gris clair pour la nouvelle section */
+}
+
+/* Couleurs du pied de page */
+footer {
+    background-color: #35424a; /* Couleur sombre pour le pied de page */
+    color: #ffffff; /* Texte en blanc */
+}
+
