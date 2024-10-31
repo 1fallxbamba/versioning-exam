@@ -4,12 +4,12 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    color: #333;
+    color: #1fa08a;
 }
 
 /* Header styling */
 header {
-    background-color: #333;
+    background-color: #1fa08a;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -17,7 +17,7 @@ header {
 
 /* Navigation menu styling */
 nav ul {
-    background-color: #444;
+    background-color: #1fa08a;
     list-style: none;
     padding: 10px;
     margin: 0;
@@ -51,13 +51,13 @@ section {
     padding: 20px;
     margin: 20px;
     background-color: #e2e8f0;
-    color: #333;
+    color: #1fa08a;
     border: 1px solid #ccc;
     border-radius: 5px;
 }
 
 .additional-section h2 {
-    color: #333;
+    color: #1fa08a;
 }
 
 .additional-section p {
@@ -66,7 +66,7 @@ section {
 
 /* Footer styling */
 footer {
-    background-color: #333;
+    background-color: #1fa08a;
     color: #fff;
     text-align: center;
     padding: 10px;
