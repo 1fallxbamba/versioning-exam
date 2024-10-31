@@ -5,3 +5,4 @@
 5-Il yaura pas de changement ca va pas affecter les autre branches certe il sont parallele mais les modification il son specifique pour chaque branche
 6-La syntax est git diff "nom de la branche a voir la difference" ou bien on fait git diff "nom premire branche  nom deuxieme branche"
 7-Parce qu'il nous permet de cacher les fichier sensibles pour eviter des attaques
+8-Si un conflit de fusion survient, Git signalera les fichiers en conflit. Il faudra alors résoudre manuellement les différences dans les fichiers concernés avant de pouvoir terminer la fusion.
