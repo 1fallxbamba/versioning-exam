@@ -1,1 +1,1 @@
-1-Pour initialiser: git init
+Description de mon projet : ce projet est un site de e-commerce en ligne.
