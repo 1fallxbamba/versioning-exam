@@ -7,4 +7,8 @@ Question 2 : Si on oublie d'ajouter le fichier avant de faire un commit la proch
 
 Question 3 : Si je fais une modification sans la committer la prochaine fois que je vais réouvrir le projet la modification n'apparaitra plus.
 
+Question 4 : Pour afficher l'historique de manière plus concise la commande est git log --online
+
 Question 5 : Si je suis sur une branche et que je commite ce commit n'affecte pas les autres branches car le commite ne prand en compte que la branche sur la quelle je me situe actuellement 
+
+Question 6 : la syntaxe de la commande qui permet d’afficher ces différences est git diff design ce qui permet d'afficher la difference de la branche spécifier à la branche a la quelle on se trouve.
