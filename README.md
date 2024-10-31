@@ -23,3 +23,4 @@ Pour afficher la difference entre 2 branches on utilise la commande git diff Mou
 # Question 8
 Il est important d'utiliser un fichier gitignore pour que les fichier sensibles (contenant des fichiers sensible) ne soient pas affciher sur le depot distant pour plus de securite ( de plus il permet de ne pas ajouter les fichers lourds )
 # Question 9
+Si un conflit intervient on doit choisir les modificaations a garder et les modifier si necessaire puis les ajouter au stage et les valider avec un commit
