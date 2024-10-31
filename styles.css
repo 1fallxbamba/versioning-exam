@@ -3,14 +3,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #726b6b;
     color: #333;
 }
 
 /* Header styling */
 header {
     background-color: #333;
-    color: #fff;
+    color: red;
     padding: 20px;
     text-align: center;
 }
@@ -30,7 +30,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: red;
     text-decoration: none;
 }
 
@@ -42,14 +42,14 @@ nav ul li a:hover {
 section {
     padding: 20px;
     margin: 20px;
-    background-color: white;
+    background-color: rgb(198, 198, 198);
     border-radius: 5px;
 }
 
 /* Footer styling */
 footer {
     background-color: #333;
-    color: #fff;
+    color: red;
     text-align: center;
     padding: 10px;
     position: fixed;
