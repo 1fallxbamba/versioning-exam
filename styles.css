@@ -4,20 +4,20 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    color: #333;
+    color: #ebe1e1f3;
 }
 
 /* Header styling */
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #e62121;
+    color: #2215da;
     padding: 20px;
     text-align: center;
 }
 
 /* Navigation menu styling */
 nav ul {
-    background-color: #444;
+    background-color: #23a7f3;
     list-style: none;
     padding: 10px;
     margin: 0;
@@ -42,13 +42,13 @@ nav ul li a:hover {
 section {
     padding: 20px;
     margin: 20px;
-    background-color: white;
+    background-color: hsla(17, 83%, 47%, 0.925);
     border-radius: 5px;
 }
 
 /* Footer styling */
 footer {
-    background-color: #333;
+    background-color: #13bdf1;
     color: #fff;
     text-align: center;
     padding: 10px;
