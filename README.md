@@ -40,3 +40,6 @@ Question 8 : Pourquoi est-il important d’utiliser un fichier .gitignore ?
 
 Question 9 : Que se passe-t-il si un conflit de fusion survient ?
 --> Si un conflit de fusion survient, Git va nous demander de résoudre le conflit manuellement en modifiant le fichier de manière à ce qu'il soit cohérent avec les deux versions.
+
+*Comment fusionner deux branches ?
+--> Pour fusionner deux branches, on peut utiliser la commande 'git merge'.
