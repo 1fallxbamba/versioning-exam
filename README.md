@@ -23,3 +23,5 @@ Réponse:
 Question 8 : Pourquoi est-il important d’utiliser un fichier .gitignore ?
 Réponse: Pour pouvoir conserver des données confidentielles à l'intérieur en s'assurant que le fichier n'apparaisse pas sur le repo distant
 
+Question 9 : Que se passe-t-il si un conflit de fusion survient ?
+Réponse: Il y'a la possibilté de choisir les modifications à conserver pour chaque partie qui est différente.
