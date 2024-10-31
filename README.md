@@ -13,7 +13,7 @@ fichiers non ajoutés pour le commit et nous incite à ajouter le fichier avant 
 3 - En cas de modification non commitée et que le projet est fermé pour être réouvert
 plus tard, git sauvegarde les modifications en attendant qu'elles soient commitées.
 
-4 - Pour affciher l'historique des commits de manière concise on utilise la commande "git log --oneline"
+4 - Pour afficher l'historique des commits de manière concise on utilise la commande "git log --oneline"
 
 5 - Si nous sommes sur une branche et que nous commitons sur cette dernière, le
 commit n'affecte pas les autres branches car une branche est tout simplement une version
