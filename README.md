@@ -1,7 +1,7 @@
 ## Description du projet
 
 Ceci est une page web tout à fait normale.
-Il n'y a rien de spécial à ce site, mais vraiment...
+Il n'y a rien de spécial, mais vraiment...
 
 ## Réponses aux questions
 
