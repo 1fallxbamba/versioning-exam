@@ -16,3 +16,10 @@ Pour afficher l'historique de maniere concise, on utilise la commande git log --
 
 # Question 5
 le commit fait sur la branche design n'affecte pas les autres branches car chaque branche est independante des autres (sauf si on utilise un merge)
+
+# Question 6
+Pour afficher la difference entre 2 branches on utilise la commande git diff Moussa_Ouattara design ( la commande de base est git diff branch1 branch2 )
+
+# Question 8
+Il est important d'utiliser un fichier gitignore pour que les fichier sensibles (contenant des fichiers sensible) ne soient pas affciher sur le depot distant pour plus de securite ( de plus il permet de ne pas ajouter les fichers lourds )
+# Question 9
