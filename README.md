@@ -16,3 +16,9 @@ permettre de stocker les différentes versions de nos fichiers.
 Question 2 : Que se passe-t-il si on oublie d'ajouter le fichier avant de faire un commit ?
 --> Si on oublie d'ajouter un fichier avant d'effectuer un commit le fichier n'étant pas dans la staging area ne sera pas pris en compte lors du commit 
 
+Question 3 : Si vous faites une modification sans la committer, que se passera-t-il si vous fermez le projet et le réouvrez plus tard ?
+--> Si on fait une modification sans la committer et que l'on ferme le projet et que l'on le réouvre plus tard, les modifications effectuées ne seront pas prises en compte dans l'historique. Mais, elles resteront intacte dans le répertoire local.
+
+Question 4 : Comment afficher l'historique de manière plus concise (résumé d'une ligne par commit) ?
+--> Pour afficher l'historique de manière plus concise, on peut utiliser la commande 'git log --oneline'. Dans le cas où m'on ne veut pas l'afficher de manière plus
+concise, on peut utiliser la commande 'git log'.
