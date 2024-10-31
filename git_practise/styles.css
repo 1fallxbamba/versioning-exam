@@ -3,21 +3,21 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #aa8ef8;
+    color: #7c89ff;
 }
 
 /* Header styling */
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #ff7eff;
+    color: #ffffff;
     padding: 20px;
     text-align: center;
 }
 
 /* Navigation menu styling */
 nav ul {
-    background-color: #444;
+    background-color: #4d998f;
     list-style: none;
     padding: 10px;
     margin: 0;
