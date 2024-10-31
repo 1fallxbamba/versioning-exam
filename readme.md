@@ -27,3 +27,6 @@ Réponses:
 4)pour afficher l'hhistorique de maniere concise il faut taper dans le terminal git log --oneline
 5)oui ce commit affecte les autres branches car c'est le meme repo local
 6)git diff <nom de la branche qu'on veut comparer avec la branche actuelle>
+8)le .gitignore permet de mettre des données sensibles des mots de passe etc pour que personne à part la machine locale ne puisse y avoir 
+  acces c'est a dire git ignore ce fichier et le fichier n'apparait pas dans la liste des fichiers trackés
+9)
