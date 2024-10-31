@@ -5,3 +5,4 @@ Question 2 : Si le fichier n'est pas ajouté avec git add, Git ne l'inclut pas d
 Nouvelle ligne de description:
 Question 3: Si la modification n'est pas commise, elle reste dans l'état de travail. Lorsque vous réouvrez le projet, le fichier contient toujours les modifications non enregistrées.
 Question 4 : on utilise la commande git --oneline
+Question 5 : Non, le commit n'affecte pas les autres branches. Chaque branche est une « ligne » de travail indépendante. Les modifications faites dans une branche n'apparaissent dans une autre que si elles sont fusionnées ou si une autre branche est basée dessus.
