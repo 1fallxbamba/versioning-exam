@@ -3,21 +3,21 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #b89494;
+    color: #463838;
 }
 
 /* Header styling */
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #212020;
+    color: #f9e4e4;
     padding: 20px;
     text-align: center;
 }
 
 /* Navigation menu styling */
 nav ul {
-    background-color: #444;
+    background-color: #474444;
     list-style: none;
     padding: 10px;
     margin: 0;
@@ -30,7 +30,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: rgb(219, 217, 217);
     text-decoration: none;
 }
 
@@ -42,14 +42,14 @@ nav ul li a:hover {
 section {
     padding: 20px;
     margin: 20px;
-    background-color: white;
+    background-color: rgb(161, 157, 157);
     border-radius: 5px;
 }
 
 /* Footer styling */
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #332e2e;
+    color: #fbcbcb;
     text-align: center;
     padding: 10px;
     position: fixed;
