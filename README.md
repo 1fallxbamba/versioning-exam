@@ -12,3 +12,5 @@ Question 4 : Pour afficher l'historique de manière plus concise la commande est
 Question 5 : Si je suis sur une branche et que je commite ce commit n'affecte pas les autres branches car le commite ne prand en compte que la branche sur la quelle je me situe actuellement 
 
 Question 6 : la syntaxe de la commande qui permet d’afficher ces différences est git diff design ce qui permet d'afficher la difference de la branche spécifier à la branche a la quelle on se trouve.
+
+Question 8 : il important d’utiliser un fichier .gitignore pour masquer un fichier que l'on a pas envie de voir apparaitre dans les fichiers trackés
