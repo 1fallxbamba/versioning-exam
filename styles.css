@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #cf0707;
     color: #333;
 }
 
@@ -17,7 +17,7 @@ header {
 
 /* Navigation menu styling */
 nav ul {
-    background-color: #444;
+    background-color: #74f;
     list-style: none;
     padding: 10px;
     margin: 0;
